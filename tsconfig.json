@@ -1,0 +1,16 @@
+{
+  "include": ["src/**/*", "tests/**/*", "./babel.config.cjs", "src/01/index.ts"],
+  "exclude": ["node_modules", "dist"],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "target": "es2022",
+     "removeComments": true
+  },
+  "typeRoots": [
+    "node_modules/@types"
+  ],
+  "types": [
+  ]
+}
