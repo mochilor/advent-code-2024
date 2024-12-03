@@ -6,7 +6,8 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
-    "build1": "parcel build src/01/index.ts && cd dist && node index.js"
+    "build1": "parcel build src/01/index.ts && cd dist && node index.js",
+    "build2": "parcel build src/02/index.ts && cd dist && node index.js"
   },
   "keywords": [],
   "author": "",
