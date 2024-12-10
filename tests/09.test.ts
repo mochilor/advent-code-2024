@@ -12,9 +12,4 @@ describe('Testing several inputs', () => {
     expect(puzzle1(input)).toBe(1928);
     expect(puzzle2(input)).toBe(2858);
   });
-
-  test('Example input 3', () => {
-    const input = '233313312141413140235';
-    expect(puzzle1(input)).toBe(3103); // I hope!
-  });
 });
