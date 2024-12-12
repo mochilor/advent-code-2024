@@ -16,7 +16,8 @@
     "build8": "parcel build src/08/index.ts && cd dist && node index.js",
     "build9": "parcel build src/09/index.ts && cd dist && node index.js",
     "build10": "parcel build src/10/index.ts && cd dist && node index.js",
-    "build11": "parcel build src/11/index.ts && cd dist && node index.js"
+    "build11": "parcel build src/11/index.ts && cd dist && node index.js",
+    "build12": "parcel build src/12/index.ts && cd dist && node index.js"
   },
   "keywords": [],
   "author": "",
