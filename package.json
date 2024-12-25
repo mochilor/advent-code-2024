@@ -28,7 +28,8 @@
     "build21": "parcel build src/21/index.ts && cd dist && node index.js",
     "build22": "parcel build src/22/index.ts && cd dist && node index.js",
     "build23": "parcel build src/23/index.ts && cd dist && node index.js",
-    "build24": "parcel build src/24/index.ts && cd dist && node index.js"
+    "build24": "parcel build src/24/index.ts && cd dist && node index.js",
+    "build25": "parcel build src/25/index.ts && cd dist && node index.js"
   },
   "keywords": [],
   "author": "",
